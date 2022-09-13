@@ -19,7 +19,7 @@ A MSc candidate at UoE | A cognitive neuroscientist to be
 
 - 🌱 I took many detours after deciding to become a psychologist. However, this process led me not only to explore many interesting research topics, but also to finally find that the neuroscience of language was a direction I was willing to pursue in depth. With this goal in mind, I build up relevant knowledge and skills and put them into practice in my academic projects. I expect that through my future research and studies I will be one step closer to being a outstanding researcher.
 
-&emsp;<br/>
+
 &emsp;<br/>
 
 
