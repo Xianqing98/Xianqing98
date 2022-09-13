@@ -1,11 +1,10 @@
 ### Hi there, I'm Xianqing. 👋 
 A MSc candidate at UoE | A cognitive neuroscientist to be
 
-
+   
 
 ## About me.
 
-<-b>
 - 🎓 I am currently pursuing my master's degree in Psychological Research at the **University of Edinburgh** and will graduate in Nov 2022. I am also a research assistant working with [Prof. Haiyan Wu](https://www.researchgate.net/profile/Haiyan-Wu-5) in [**Affective, Neuroscience and Decision-making Laboratory**](https://andlab-um.com) (**A. N. D Lab**) in the psychology program at the **University of Macau** (Macao, China).
 
 
