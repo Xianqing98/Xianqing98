@@ -2,7 +2,9 @@
 A MSc candidate at UoE | A cognitive neuroscientist to be
 
 
+
 ## A little bit about me...
+
 
 - 🎓 I am currently pursuing my master's degree in Psychological Research at the **University of Edinburgh** and will graduate in Nov 2022. I am also a research assistant working with [Prof. Haiyan Wu](https://www.researchgate.net/profile/Haiyan-Wu-5) in [**Affective, Neuroscience and Decision-making Laboratory**](https://andlab-um.com) (**A. N. D Lab**) in the psychology program at the **University of Macau** (Macao, China).
 
@@ -19,5 +21,7 @@ A MSc candidate at UoE | A cognitive neuroscientist to be
 📫 Email: (xianiqngliu98@gmail.com); Twitter: [@xianqing_liu](https://twitter.com/xianqing_liu)
 
 
+
 <!--
 **Xianqing98/Xianqing98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
