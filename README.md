@@ -1,7 +1,7 @@
 ### Hi there, I'm Xianqing. 👋 
 A MSc candidate at UoE | A cognitive neuroscientist to be
-
-
+&emsp;&emsp;&emsp;<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;<br/>
 
 
 ## About me.
@@ -18,7 +18,7 @@ A MSc candidate at UoE | A cognitive neuroscientist to be
 
 :book: My full CV is [here]().
 
-📫 Email: (xianiqngliu98@gmail.com); Twitter: [@xianqing_liu](https://twitter.com/xianqing_liu)
+📫 Email: (xianqingliu98@gmail.com); Twitter: [@xianqing_liu](https://twitter.com/xianqing_liu)
 
 
 
