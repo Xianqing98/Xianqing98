@@ -23,7 +23,7 @@ An MSc candidate at UoE | A cognitive neuroscientist to be
 &emsp;<br/>
 
 
-:book: My full CV can be found [here]().
+:book: My full CV can be found [here](https://github.com/Xianqing98/Xianqing98/blob/main/CV_Xianqing_s2023.pdf).
 
 📫 Email: (xianqingliu98@gmail.com); Twitter: [@xianqing_liu](https://twitter.com/xianqing_liu)
 
