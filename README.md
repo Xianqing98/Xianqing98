@@ -10,7 +10,7 @@ An MSc candidate at UoE | A cognitive neuroscientist to be
 - 🎓 I am currently pursuing my master's degree in Psychological Research at the **University of Edinburgh** and will graduate in Nov 2022. Before that, I was a research assistant working with [Prof. Haiyan Wu](https://www.researchgate.net/profile/Haiyan-Wu-5) in [**Affective, Neuroscience and Decision-making Laboratory**](https://andlab-um.com) (**A. N. D Lab**) in the psychology program at the **University of Macau** (Macao, China).
 &emsp;<br/>
 &emsp;<br/>
-
+ 
 
 - :bulb: I am passionate about research, and especially interested in figuring out the **neural mechanism behind human language**. My diverse experience includes my work as a junior psychologist investigating the representation and neural implementation of semantic memory, as an RA collecting and analyzing neuroscientific data, and as a motivated coder teaching myself programming skills. Through my experience, I have familiarized myself with **EEG/sEEG and fMRI data processing**, **computational modeling**, **R**, **MATLAB**, and **Python**.
 &emsp;<br/>
