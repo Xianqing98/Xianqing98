@@ -1,7 +1,5 @@
 ### Hi there, I'm Xianqing. 👋 
 &emsp;<br/>
-&emsp;<br/>
-
 
 ## About me.
  
