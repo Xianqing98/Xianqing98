@@ -7,7 +7,7 @@ A PhD student at UIowa | A neuroscientist to be
 ## About me.
  
 
-- 🎓 I am currently pursuing my PhD in Neuroscience at the **University of Iowa**. I received my MSc degree in Psychology from the University of Edinburgh where she gained research experience in neurophysiology. My research interests focus on understanding the **brain networks involved in emotion and language cognition** and how they are altered in **mood and communication disorders**, with the ultimate goal of identifying more effective and individualized neurotherapeutic targets to facilitate the **development of treatments** for these disorders. Aiming at these goals, I'm investigating the causal links between cortical and deep brain regions using **intracranial electroencephalography (iEEG)** and **transcranial magnetic stimulation (TMS)**. 
+- 🎓 I am currently pursuing my PhD in Neuroscience at the **University of Iowa**. My research focus on understanding the **brain networks involved in emotion and language cognition** and how they are altered in **mood and communication disorders**, with the ultimate goal of identifying more effective and individualized neurotherapeutic targets to facilitate the **development of treatments** for these disorders. Aiming at these goals, I'm investigating the causal links between cortical and deep brain regions using **intracranial electroencephalography (iEEG)** and **transcranial magnetic stimulation (TMS)**. 
 &emsp;<br/>
 &emsp;<br/>
  
