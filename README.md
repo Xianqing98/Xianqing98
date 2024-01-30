@@ -1,5 +1,5 @@
 ### Hi there, I'm Xianqing. 👋 
-An MSc candidate at UoE | A cognitive neuroscientist to be
+A PhD student at UIowa | A neuroscientist to be
 &emsp;<br/>
 &emsp;<br/>
 
