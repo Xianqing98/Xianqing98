@@ -12,7 +12,7 @@ An MSc candidate at UoE | A cognitive neuroscientist to be
 &emsp;<br/>
  
 
-- :bulb: I am passionate about research, and especially interested in figuring out the **neural mechanism behind social cognition and language**. My diverse experience includes my work as a junior neuroscientist investigating the representation and neural implementation of semantic memory, as an RA collecting and analyzing neuroscientific data in social cognition projects, and as a motivated coder teaching myself programming skills. Through my experience, I have familiarized myself with **EEG/sEEG data processing**, **Shell**, **R**, **MATLAB**, and **Python**.
+- :bulb: My diverse experience includes my work as a junior neuroscientist investigating the representation and neural implementation of semantic memory, as an RA collecting and analyzing neuroscientific data in social cognition projects, and as a motivated coder teaching myself programming skills. Through my experience, I have familiarized myself with **EEG/sEEG data processing**, **Shell**, **R**, **MATLAB**, and **Python**.
 &emsp;<br/>
 &emsp;<br/>
 
