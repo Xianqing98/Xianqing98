@@ -1,5 +1,4 @@
 ### Hi there, I'm Xianqing. 👋 
-A PhD student at UIowa | A neuroscientist to be
 &emsp;<br/>
 &emsp;<br/>
 
